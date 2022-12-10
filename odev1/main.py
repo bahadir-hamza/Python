@@ -44,6 +44,8 @@ print("Hosgeldiniz Sn.", adSoyad)
 
 #########################
 
+
+
 '''
 
 enSevilen = input("En sevidiğin ders: ")
@@ -84,8 +86,12 @@ print("Ailenizin yaş ortalaması:", ortalama)
 
 #########################
 
+'''
+
 dogumYil = int(input("Doğum yılınızı giriniz: "))
 
 yas = 2022-dogumYil
 
 print(yas)
+
+'''
